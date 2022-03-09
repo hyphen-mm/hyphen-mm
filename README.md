@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hyphen-mm
-- 👀 I’m interested in Rocket Science
-- 🌱 I’m currently learning Unity 
-- 💞️ I’m looking to collaborate on a game
+- 👋 Hi, We're @hyphen-mm
+- 👀 We're interested in Rocket Science
+- 🌱 We're currently learning Unity 
+- 💞️ We're looking to collaborate on a game
 - 📫 How to reach me ...
 
 <!---
